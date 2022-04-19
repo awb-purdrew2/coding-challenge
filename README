@@ -1,0 +1,19 @@
+# Kraken Coding Challenge
+# Andrew Barthel
+
+## Dependencies:
+
+``` bash
+sudo apt-get install cargo
+```
+
+# How to build/compile:
+
+``` bash
+cargo build
+```
+
+# How to run:
+``` bash
+cargo run -- transactions.csv > accounts.csv
+```
